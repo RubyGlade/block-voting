@@ -1,1 +1,1 @@
-# block-voting
+Blockchain Club CFI project
